@@ -3,7 +3,7 @@
 class MediaParser
   # Constructor to initialize the MediaParser
   # @param filepath string path of the file's location which needs to be parsed
-  def initialize(_filepath)
+  def initialize(filepath)
     raise('implement me ;)')
   end
 
